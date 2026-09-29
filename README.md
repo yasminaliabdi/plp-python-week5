@@ -15,3 +15,9 @@
 ## Reflection
 
 The `if __name__ == "__main__":` block is useful because it lets a file run code only when executed directly, not when imported. This means `helpers.py` can be tested on its own without affecting `main.py`.
+
+## Screenshots
+
+- `Screenshot 2026-09-29 172911.png` - Password generator first run (8 and 12 character passwords)
+- `Screenshot 2026-09-29 172958.png` - Password generator second run (different passwords)
+- `Screenshot 2026-09-29 173039.png` - main.py and helpers.py output
